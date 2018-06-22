@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+/*头部定义start*/
+header {
+	background: #2E8DE6;/*定义头部的颜色*/
+	color: #ffffff;/*定义头部文字颜色*/
+}
+/*头部定义end*/
+/*正文定义start*/
+#main-content {
+	color: #777777;/*定义正文文字颜色*/
+}
+/*正文定义end*/
+/*底部定义start*/
+footer {
+	background: #ffffff;
+	color: #666666;
+	font-size: 12px;
+}
+.ui-header .ui-icon-return {
+	color: #ffffff;
+	font-size: 28px;
+}
+.ui-header-auto .ui-icon-return {
+	color: #ffffff;
+	font-size: 28px;
+}
+
+.ui-header-auto, .ui-footer-auto {
+	position: fixed;
+	width: 100%;
+	z-index: 999999;
+	left: 0;
+}
+.ui-header-auto {
+	top: 0;
+	min-height: 45px;
+}
+.ui-header-auto, .ui-footer-auto {
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+	left: 0;
+}
+/*底部定义end*/
+
+.skin-bg {
+	background: #2E8DE6!important;/*定义头部的颜色*/
+	color: #ffffff!important;/*定义头部文字颜色*/
+}
+
+.skin-txt-color {
+	color: #2E8DE6 !important;
+}
+.ui-footer li div.skin-txt-color {
+	color: #2E8DE6;
+}
+
+.loading-bg {
+	background: url(../image/loading_blue.gif) center no-repeat #f7f7f7;
+	background-size: 70px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.skin-triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-bottom: 8px solid #2E8DE6;
+	position: absolute;
+	left: 45%;
+	bottom: 0px;
+	margin: 0 auto;
+	z-index: 999999;
+}
+/*
+ * wang_bw
+ */
+.skin-clacheck + label {
+	border: 1px solid #2E8DE6 !important;
+}
+.clacheck:checked + label:after {
+	color: #2E8DE6 !important;
+}
+/*zhy*/
+.borbt{
+	border-bottom: 2px solid #2E8DE6 !important;
+}
+.zixun{
+	background: #3065bf !important;
+}
+/*
+ * xu_bo
+ */
+.skin-bor {
+	border: 1px solid #2E8DE6 !important;
+}
+.skin-shadow-l {
+	box-shadow: 6px 0px 6px -3px #3065bf;
+}
+.skin-shadow-r {
+	box-shadow: -6px 0px 6px -3px #3065bf;
+}
+
+/*.raiders-img {
+	background: url(../image/homez2.png) no-repeat;
+	background-size: 100% 100%;
+	margin: 0 auto;
+}
+.homeOne{
+  background: url(../image/homea12.png) no-repeat;
+  background-size: 100% 100%;
+}
+.bbsOne{
+   background: url(../image/homea22.png) no-repeat;
+  background-size: 100% 100%;
+}
+.meOne{
+   background: url(../image/homea32.png) no-repeat;
+  background-size: 100% 100%;
+} 
+
+.roundQuan{
+   background: url(../image/rounds02.png)no-repeat;
+   background-size: 100% 100%;
+}*/
+
+.boderyuan{
+           border:1px solid #2E8DE6 !important;
+        }
+        .dianspan{
+            width: 10px;
+            height: 10px;
+            background: #2E8DE6 !important;
+            -webkit-border-radius: 200px;
+            border-radius: 200px; 
+            display: inline-block;
+            vertical-align: middle;          
+          }
+ .ui-radio input:before{
+            border: 2px solid #2E8DE6 !important;
+		}
+		.ui-radio input:checked:after{
+			background: #2E8DE6 !important;
+		}
+
+/*.bacOver{
+			background: url(../image/huangshang02.png) no-repeat;
+			background-size:100% 100%
+		}*/

@@ -1,0 +1,28 @@
+<?php
+return [
+    'Order',
+    'User',
+    'AgentInviteCode',
+    'UserMention',
+    'UserCollection',
+    'Bill',
+    'CreditCard',
+    'DebitCard',
+    'Pay',
+    'Redpacket',
+    'UserMention',
+    'Plan',
+    'Gather',
+    'News',
+    'GetAPISign',
+    'BaseUser',
+    'BaseAgent',
+    'Banker',
+    'Bank',
+    'Balance',
+    'AgentMention',
+    'AgentHierarchy',
+    'AgentBill',
+    'AgentCard',
+    'ResisTest'
+];

@@ -1,0 +1,7 @@
+{
+  "require": {
+    "aliyuncs/oss-sdk-php": "^2.0",
+    "monolog/monolog": "1.2.*",
+    "videlalvaro/php-amqplib":"2.7.*"
+  }
+}

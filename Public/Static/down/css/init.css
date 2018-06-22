@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(base.91frame.css);
+@import url(color.91frame.css);
+@import url(config.91frame.css);
+@import url(lijingfeng.css);
+@import url(yangxinghao.css);
+@import url(demo.css);
+@import url(loading.91frame.css);
+@import url(zv.css);
+@import url(swipeout.css);
+
+* {
+	font-family: PingFangSC-Light, sans-serif;
+}
+.pc{ background: url(../image/bg.jpg) center; background-size: cover; background-attachment :fixed; }

@@ -1,0 +1,235 @@
+/* 自定义样式 */
+
+/* 自定义样式 */
+
+.t-FF8B17 {
+	color: #FF8B17;
+}
+
+.t-999999 {
+	color: #999999;
+}
+.t-777777 {
+	color: #777777;
+}
+
+.bg-ff1854 {
+	background-color: #ff1854;
+}
+
+.bg-BBBBBB {
+	background-color: #BBBBBB;
+}
+.bg-FFA042 {
+	background-color: #FFA042;
+}
+
+.bg-88C4FF {
+	background-color: #88C4FF;
+}
+
+.zindex7 {
+	z-index: 200007
+}
+.zindex6 {
+	z-index: 200006
+}
+
+.ui-label-lists {
+	margin: 0 5px;
+}
+
+.ui-label-lists .ui-labels {
+	margin: 0 5px 5px 0;
+}
+
+.wd-pre-100 {
+	width: 100%;
+}
+
+.top-70 {
+	margin-top: 70px;
+}
+.top-13 {
+
+	margin-top: 13px;
+}
+
+.t-F84C37 {
+	color: #F84C37;
+}
+
+.w-18 {
+	width: 18px;
+}
+
+.h-18 {
+	height: 18px;
+}
+
+.box-a {
+	margin: 0 auto;
+}
+
+.h-145 {
+	height: 145px;
+}
+.h-130 {
+	height: 130px;
+}
+.h-55 {
+	height: 55px;
+}
+
+.h-110 {
+	height: 110px;
+}
+
+.h-125 {
+	height: 125px;
+}
+.h-155 {
+	height: 155px;
+}
+.h-200 {
+	height: 200px;
+}
+.w-60 {
+	width: 60px;
+}
+.h-60 {
+	height: 60px;
+}
+.mar-l-025 {
+	margin-left: 2.5px;
+}
+
+.mar-r-025 {
+	margin-right: 2.5px;
+}
+
+.pad-l-025 {
+	padding-left: 2.5px;
+}
+
+.pad-r-025 {
+	padding-right: 2.5px;
+}
+.ui-col-59 {
+	width: 59%;
+}
+
+.uc_o {
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+}
+
+.uc_o5 {
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.left-53 {
+	left: 53px;
+}
+
+.lh-0 {
+	line-height: 0;
+}
+
+.bg-e5e6e7 {
+	background: #e5e6e7;
+}
+.bg-ff1854 {
+	background-color: #ff1854;
+}
+.txo {
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.top-12 {
+	margin-top: 12px;
+}
+.ova {
+	overflow: auto;
+}
+.umh15 {
+	line-height: 15px
+}
+
+.wd-pre-75 {
+	width: 75%;
+}
+.mar-0-a {
+	margin: 0px auto;
+}
+
+.pad-t-07 {
+	padding-top: 7px;
+}
+
+.top-200 {
+	top: 200px;
+}
+.left-60 {
+	left: 60px;
+}
+.right-60 {
+	right: 60px;
+}
+.left-120 {
+	left: 120px;
+}
+.right-120 {
+	right: 120px;
+}
+.top-300 {
+	top: 300px;
+}
+.top-400 {
+	top: 400px
+}
+.ui-yuan {
+	width: 60px;
+	height: 60px;
+	-webkit-border-radius: 200px;
+	overflow: hidden;
+}
+.h-400 {
+	height: 400px;
+}
+.ftz8 {
+	font-size: 8px;
+}
+.ui-list-img1 {
+	width: 60px;
+	height: 60px;
+}
+.umh80 {
+	line-height: 80px
+}
+.umh60 {
+	line-height: 60px
+}
+.select-btn {
+	background: #2E8DE6;
+	color: #ffffff;
+}
+.uc-tl10 {
+	-webkit-border-top-left-radius: 3px;
+	border-top-left-radius: 3px
+}
+.uc-tr10 {
+	-webkit-border-top-right-radius: 3px;
+	border-top-right-radius: 3px
+}
+.uc-bl10 {
+	-webkit-border-bottom-left-radius: 3px;
+	border-bottom-left-radius: 3px
+}
+.uc-br10 {
+	-webkit-border-bottom-right-radius: 3px;
+	border-bottom-right-radius: 3px
+}

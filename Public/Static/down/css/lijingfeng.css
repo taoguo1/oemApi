@@ -1,0 +1,19 @@
+/* 自定义样式 */
+
+/*
+ 背景颜色
+ */
+.t-b0b0b0 {
+	color: #B0B0B0
+}
+.t-ff7f00{
+	color: #ff7f00
+}
+.bg-e5e6e7 {
+	background: #e5e6e7
+}
+.h-20-margin {
+	width: 100%;
+	float: left;
+	height: 20px;
+}

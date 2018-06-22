@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+/*头部定义start*/
+header {
+	background: #F84E37;/*定义头部的颜色*/
+	color: #ffffff;/*定义头部文字颜色*/
+}
+/*头部定义end*/
+/*正文定义start*/
+#main-content {
+	color: #777777;/*定义正文文字颜色*/
+}
+/*正文定义end*/
+/*底部定义start*/
+footer {
+	background: #ffffff;
+	color: #666666;
+	font-size: 12px;
+}
+
+@font-face {
+	font-family: "PingFangSC-Light";
+	src: url("../font/pingfang.ttf");
+}
+* {
+	font-family: PingFangSC-Light, sans-serif;
+}
+.ui-header .ui-icon-return {
+	color: #ffffff;
+	font-size: 28px;
+}
+.ui-header-auto .ui-icon-return {
+	color: #ffffff;
+	font-size: 28px;
+}
+
+.ui-header-auto, .ui-footer-auto {
+	position: fixed;
+	width: 100%;
+	z-index: 999999;
+	left: 0;
+}
+.ui-header-auto {
+	top: 0;
+	min-height: 45px;
+}
+.ui-header-auto, .ui-footer-auto {
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+	left: 0;
+}
+/*底部定义end*/

@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(frozen.css);
+@import url(base.css);
+@import url(color.css);
+
+/*@font-face {
+	font-family: "PingFangSC-Light";
+	src: url("../font/pingfang.ttf");
+}*/
+/** {
+	font-family: PingFangSC-Light, sans-serif;
+}*/

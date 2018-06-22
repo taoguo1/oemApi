@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+.bg-wh{ background-color:#fff}
+.bg-bla{ background-color:#000}
+.bg-red{ background-color:red}
+.bg-orange{ background-color:orange}
+.bg-green{ background-color:green}
+.bg-yellow{ background-color:yellow}
+.bg-blue{ background-color:blue}
+.bg-purple{ background-color:purple}
+.bg-ff1854{ background: #ff1854}
+.bg-coffee{ background-color:#924d26}
+.bg-gra{ background-color:#eeeeee}
+.bg-gra1{ background-color:#f1f1f1}
+.bg-gra2{ background-color:#f5f5f5}
+.bg-gra3{ background-color:#f7f7f7}
+.bg-gra4{ background-color:#f8f8f8}
+.bg-gra5{ background-color:#f9f9f9}
+.bg-gra6{ background-color:#ebeced}
+.bg-d14946{ background-color:#d14946}
+.bg-919191{ background-color:#919191}
+.t-ff1854{ color: #ff1854}
+.t-wh{ color:#fff;}
+.t-pink1{ color:#b60306;}
+.t-bla{ color:#000;}
+.t-gra{ color:#666;}
+.t-gra1{ color:#333;}
+.t-gra2{ color:#999;}
+.t-yel{ color:#ffd800;}
+.t-red{ color:#990000;}
+.t-blu{ color:#06C;}
+.t-green{ color:#4ab000;}
+.t-green1{ color:#398501;}
+.t-eb4f38{ color: #eb4f38}
+.t-545454{color:#545454;}
+.t-32b9aa{ color:#32b9aa}
+.t-82cb24{ color:#82cb24}
+.t-ff8d19{ color:#ff8d19}
+.t-c6c6c6{ color: #c6c6c6}
+.t-d14946{ color: #d14946}
+.t-919191{ color: #919191}
+.t-eb5b41{ color: #eb5b41}
+.bor-c-bla{border-color:#000000}
+
+.bor-c-gra{border-color:#b2b2b2}
+.bor-c-gra1{border-color:#666666}
+.bor-c-gra2{border-color:#333333}
+.bor-c-gra3{border-color:#f1f1f1}
+.bor-c-gra4{border-color:#aaaaaa}
+.bor-c-gra5{border-color:#4e504e}
+.bor-c-gra6{border-color:#dddddd}
+.bor-c-gra7{border-color:#dedfe0}
+
+
+.bor-c-wh{border-color:#fff}
+.bor-c-red{border-color:#900}
+
+
+body div{
+    color: black;
+}
+header h1{
+    color: white;
+}
